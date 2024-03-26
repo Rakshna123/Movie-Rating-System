@@ -1,3 +1,7 @@
+# Deployment Link:-
+
+https://heartfelt-cannoli-265d08.netlify.app
+
 # Movie Rating System
 
 This project implements a simple movie rating system using HTML, CSS, and JavaScript. Users can view movie trailers and rate them using a star-based rating system.
